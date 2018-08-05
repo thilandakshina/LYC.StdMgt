@@ -1,0 +1,7 @@
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\bin\Debug\LYC.StdMgt.BusinessService.Contracts.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\bin\Debug\LYC.StdMgt.BusinessService.Contracts.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\bin\Debug\LYC.StdMgt.Domain.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\bin\Debug\LYC.StdMgt.Domain.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\obj\Debug\LYC.StdMgt.BusinessService.Contracts.csprojResolveAssemblyReference.cache
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\obj\Debug\LYC.StdMgt.BusinessService.Contracts.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService.Contracts\obj\Debug\LYC.StdMgt.BusinessService.Contracts.pdb

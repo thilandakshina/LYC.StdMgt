@@ -1,0 +1,7 @@
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\bin\Debug\LYC.StdMgt.Utils.Log.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\bin\Debug\LYC.StdMgt.Utils.Log.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\obj\Debug\LYC.StdMgt.Utils.Log.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\obj\Debug\LYC.StdMgt.Utils.Log.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\bin\Debug\LYC.StdMgt.Utils.Log.Contracts.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\bin\Debug\LYC.StdMgt.Utils.Log.Contracts.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Utils.Log\obj\Debug\LYC.StdMgt.Utils.Log.csprojResolveAssemblyReference.cache

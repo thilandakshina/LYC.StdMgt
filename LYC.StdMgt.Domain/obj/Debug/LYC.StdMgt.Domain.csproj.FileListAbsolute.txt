@@ -1,0 +1,10 @@
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\LYC.StdMgt.Domain.dll.config
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\LYC.StdMgt.Domain.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\LYC.StdMgt.Domain.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\EntityFramework.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\EntityFramework.xml
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\obj\Debug\LYC.StdMgt.Domain.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\obj\Debug\LYC.StdMgt.Domain.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Domain\obj\Debug\LYC.StdMgt.Domain.csprojResolveAssemblyReference.cache

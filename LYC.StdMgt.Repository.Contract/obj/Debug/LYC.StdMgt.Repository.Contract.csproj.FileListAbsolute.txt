@@ -1,0 +1,12 @@
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\LYC.StdMgt.Repository.Contract.dll.config
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\LYC.StdMgt.Repository.Contract.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\LYC.StdMgt.Repository.Contract.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\EntityFramework.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\LYC.StdMgt.Domain.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\LYC.StdMgt.Domain.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\EntityFramework.xml
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\obj\Debug\LYC.StdMgt.Repository.Contract.csprojResolveAssemblyReference.cache
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\obj\Debug\LYC.StdMgt.Repository.Contract.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.Repository.Contract\obj\Debug\LYC.StdMgt.Repository.Contract.pdb

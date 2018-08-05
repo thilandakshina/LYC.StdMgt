@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08584607-2B75-4547-B9C8-FA2ABF31ED7F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LYC.StdMgt.Repository</RootNamespace>
+    <AssemblyName>LYC.StdMgt.Repository</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Migrations\201807210747415_InitialDB.cs" />
+    <Compile Include="Migrations\201807210747415_InitialDB.Designer.cs">
+      <DependentUpon>201807210747415_InitialDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807210759464_Add_Teacher.cs" />
+    <Compile Include="Migrations\201807210759464_Add_Teacher.Designer.cs">
+      <DependentUpon>201807210759464_Add_Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807210804168_Update_Teacher_Column_Code_Add.cs" />
+    <Compile Include="Migrations\201807210804168_Update_Teacher_Column_Code_Add.Designer.cs">
+      <DependentUpon>201807210804168_Update_Teacher_Column_Code_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807210824412_Update_Subjects_Update_Course.cs" />
+    <Compile Include="Migrations\201807210824412_Update_Subjects_Update_Course.Designer.cs">
+      <DependentUpon>201807210824412_Update_Subjects_Update_Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807210831270_Update_Enrollement.cs" />
+    <Compile Include="Migrations\201807210831270_Update_Enrollement.Designer.cs">
+      <DependentUpon>201807210831270_Update_Enrollement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807241612221_Second.cs" />
+    <Compile Include="Migrations\201807241612221_Second.Designer.cs">
+      <DependentUpon>201807241612221_Second.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807241622530_Third.cs" />
+    <Compile Include="Migrations\201807241622530_Third.Designer.cs">
+      <DependentUpon>201807241622530_Third.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807241626066_Fourth.cs" />
+    <Compile Include="Migrations\201807241626066_Fourth.Designer.cs">
+      <DependentUpon>201807241626066_Fourth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807242030244_FIFTH.cs" />
+    <Compile Include="Migrations\201807242030244_FIFTH.Designer.cs">
+      <DependentUpon>201807242030244_FIFTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Repository.cs" />
+    <Compile Include="StdMgtDbContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LYC.StdMgt.Domain\LYC.StdMgt.Domain.csproj">
+      <Project>{ba4010c8-5669-4f44-9413-8cc979be774c}</Project>
+      <Name>LYC.StdMgt.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LYC.StdMgt.Repository.Contract\LYC.StdMgt.Repository.Contract.csproj">
+      <Project>{7b9c6b8e-cd10-477a-a634-a766d15acc6f}</Project>
+      <Name>LYC.StdMgt.Repository.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LYC.StdMgt.Utils.Log.Contracts\LYC.StdMgt.Utils.Log.Contracts.csproj">
+      <Project>{17760ead-e0db-45f4-a6d8-3362f055b937}</Project>
+      <Name>LYC.StdMgt.Utils.Log.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201807210747415_InitialDB.resx">
+      <DependentUpon>201807210747415_InitialDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807210759464_Add_Teacher.resx">
+      <DependentUpon>201807210759464_Add_Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807210804168_Update_Teacher_Column_Code_Add.resx">
+      <DependentUpon>201807210804168_Update_Teacher_Column_Code_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807210824412_Update_Subjects_Update_Course.resx">
+      <DependentUpon>201807210824412_Update_Subjects_Update_Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807210831270_Update_Enrollement.resx">
+      <DependentUpon>201807210831270_Update_Enrollement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807241612221_Second.resx">
+      <DependentUpon>201807241612221_Second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807241622530_Third.resx">
+      <DependentUpon>201807241622530_Third.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807241626066_Fourth.resx">
+      <DependentUpon>201807241626066_Fourth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807242030244_FIFTH.resx">
+      <DependentUpon>201807242030244_FIFTH.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

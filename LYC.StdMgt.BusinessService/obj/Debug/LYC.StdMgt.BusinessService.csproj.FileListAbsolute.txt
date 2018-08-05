@@ -1,0 +1,15 @@
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.BusinessService.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.BusinessService.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Domain.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Domain.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\obj\Debug\LYC.StdMgt.BusinessService.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\obj\Debug\LYC.StdMgt.BusinessService.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\obj\Debug\LYC.StdMgt.BusinessService.csprojResolveAssemblyReference.cache
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.BusinessService.Contracts.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Repository.Contract.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\EntityFramework.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.BusinessService.Contracts.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Repository.Contract.pdb
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\EntityFramework.xml
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Utils.Log.Contracts.dll
+D:\Practicles\07_21\LYC.StdMgt\LYC.StdMgt.BusinessService\bin\Debug\LYC.StdMgt.Utils.Log.Contracts.pdb
